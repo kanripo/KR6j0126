@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 一字佛頂輪王經
+#+DATE: 2015-08-30 20:26:22.877740
+#+PROPERTY: JUAN 0
